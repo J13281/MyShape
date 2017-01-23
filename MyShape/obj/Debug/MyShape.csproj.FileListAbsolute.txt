@@ -1,0 +1,14 @@
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyShape.Properties.Resources.resources
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyShape.csproj.GenerateResource.Cache
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\bin\Debug\MyShape.dll
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\bin\Debug\MyShape.pdb
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyShape.dll
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyShape.pdb
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyCircle.g.cs
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyLine.g.cs
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyShape_MarkupCompile.cache
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyShape_MarkupCompile.lref
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyCircle.baml
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyLine.baml
+c:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyShape.g.resources
+C:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyShape\obj\Debug\MyShape.csprojResolveAssemblyReference.cache

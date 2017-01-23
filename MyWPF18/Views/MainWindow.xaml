@@ -1,0 +1,31 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyWPF18"
+        xmlns:viewmodels="clr-namespace:MyWPF18.ViewModels"
+        xmlns:MyShape="clr-namespace:MyShape;assembly=MyShape"
+        x:Class="MyWPF18.Views.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <viewmodels:MainViewModel P="100,50" Q="300,120"/>
+    </Window.DataContext>
+    <Canvas Background="#202020">
+        <MyShape:MyLine X1="{Binding P.X}" Y1="{Binding P.Y}"
+                        X2="{Binding Q.X}" Y2="{Binding Q.Y}"
+                        Stroke="AliceBlue"
+                        Foreground="AliceBlue"
+                        Text="Friend"/>
+        <MyShape:MyCircle Text="Daichi" 
+                          Fill="Aquamarine" 
+                          Foreground="AliceBlue"
+                          Diameter="14"
+                          X="{Binding P.X}" Y="{Binding P.Y}"/>
+        <MyShape:MyCircle Text="Takahiro"
+                          Fill="SandyBrown" 
+                          Foreground="AliceBlue"
+                          Diameter="14"
+                          X="{Binding Q.X}" Y="{Binding Q.Y}"/>
+    </Canvas>
+</Window>

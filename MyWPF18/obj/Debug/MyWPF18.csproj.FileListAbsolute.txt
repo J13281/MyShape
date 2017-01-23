@@ -1,0 +1,17 @@
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\bin\Debug\MyWPF18.exe.config
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\bin\Debug\MyWPF18.exe
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\bin\Debug\MyWPF18.pdb
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\Views\MainWindow.g.cs
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\App.g.cs
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\MyWPF18_MarkupCompile.cache
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\MyWPF18_MarkupCompile.lref
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\Views\MainWindow.baml
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\MyWPF18.g.resources
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\MyWPF18.Properties.Resources.resources
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\MyWPF18.csproj.GenerateResource.Cache
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\MyWPF18.exe
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\MyWPF18.pdb
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\bin\Debug\MyShape.dll
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\bin\Debug\MyShape.pdb
+c:\users\koudai\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\MyWPF18.csprojResolveAssemblyReference.cache
+C:\Users\KOUDAI\documents\visual studio 2015\Projects\MyWPF18\MyWPF18\obj\Debug\GeneratedInternalTypeHelper.g.cs
